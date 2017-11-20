@@ -1,3 +1,17 @@
-h1 {
-  color: blue;
+html {
+  text-align: center; font-family: Helvetica;
 }
+h1 {
+  font-size: 70px;
+}
+h1, h2 {
+  font-weight: bold;
+}
+h2 {
+  font-size: 23px;
+}
+.Our-process { font-size: 32px;}
+.font-color {
+  color: white;
+}
+.font-color p {color: white;}
